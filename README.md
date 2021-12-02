@@ -1,5 +1,5 @@
 # EmbeddedSystems
-Collection of codes for AVR and PIC microcontrollers
+Collection of codes for AVR, PIC, and ARM microcontrollers
 
 
 [![Generic badge](https://img.shields.io/badge/GitHub-StxGuy/EmbeddedSystems-<COLOR>.svg)](https://github.com/StxGuy/EmbeddedSystems)
